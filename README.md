@@ -70,7 +70,7 @@ TERMS & CONDITIONS
 
 *	The tool is for personal use only.
 
-*	Sharing the tool is prohibited, use for oneself.
+*	Sharing the tool is prohibited,you can use for oneself or share via Github link.
 
 *	The tool uses third party services internally and you agree those services by using this 		tool.
 
